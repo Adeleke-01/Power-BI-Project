@@ -7,7 +7,7 @@ This dashboard provides insights into various aspects of HR management, focusing
 
 ## Graphs and Insights
 
-![](HRDASHBOARD.jpg)
+![](HRDASHBOARD.JPG)
 
 ### 1. Total Employee, Current Employee, Attrition Count
 - *Total Employee*: 1470
